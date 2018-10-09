@@ -36,10 +36,10 @@ Dane Sherman is a second year Game Design and Development and Psychology Double 
 
 # Documentation
 ## Resources Used
-..* Pixel Rat Gif: https://opengameart.org/sites/default/files/gif%201_0.gif - Open Game Art
-..* Color Palette: https://www.design-seeds.com/in-nature/nature-made/nature-hues-6/ - Design Seeds
-..* Rat With Sign Image: https://www.weirdexperiments.com//Bilder%20Das%20neue%20Buch%20der%20verrueckten%20Experimente/Skinner%20Cartoon.jpg - Weird Experiments
-..* Rat Cages Image: https://i.pinimg.com/236x/b1/dc/2d/b1dc2daeeb8e2ac4a732d1b76d07d6d1--the-rats-caged.jpg> - Pinterest 
++ Pixel Rat Gif: https://opengameart.org/sites/default/files/gif%201_0.gif - Open Game Art
++ Color Palette: https://www.design-seeds.com/in-nature/nature-made/nature-hues-6/ - Design Seeds
++ Rat With Sign Image: https://www.weirdexperiments.com//Bilder%20Das%20neue%20Buch%20der%20verrueckten%20Experimente/Skinner%20Cartoon.jpg - Weird Experiments
++ Rat Cages Image: https://i.pinimg.com/236x/b1/dc/2d/b1dc2daeeb8e2ac4a732d1b76d07d6d1--the-rats-caged.jpg> - Pinterest 
 
 # Project   
 (Placholder until game created)
